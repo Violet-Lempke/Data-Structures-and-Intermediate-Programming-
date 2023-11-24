@@ -1,0 +1,15 @@
+Origional README:
+
+Hello, 
+
+Thanks for download. Get more game assets, game characters, game
+backgrounds, marbles and other game arts at:
+
+http://bevouliin.com
+
+Source:
+
+https://opengameart.org/content/game-character-blue-flappy-bird-sprite-sheets
+
+
+The images have been modified by scaling them down to 200px wide.
